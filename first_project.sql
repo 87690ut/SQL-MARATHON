@@ -20,5 +20,4 @@ where emp_id = 3;
 
 alter table employee
 modify Salary int not null;
-
 select * from employee
