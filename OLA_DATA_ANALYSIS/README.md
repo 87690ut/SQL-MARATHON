@@ -41,3 +41,7 @@ Addressing 10 critical business questions provided a 360-degree view of operatio
 
 ## 🚀 Conclusion
 This project demonstrates end-to-end data proficiency—from raw data wrangling in SQL to delivering strategic business recommendations. It showcases my technical skills in MySQL and a strong focus on driving operational excellence.
+
+
+## Project Managed By-
+* Uttam Tiwari / BCA Student
