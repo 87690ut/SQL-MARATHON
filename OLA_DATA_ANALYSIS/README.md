@@ -45,4 +45,6 @@ This project demonstrates end-to-end data proficiency—from raw data wrangling 
 
 ---
 ### 👤 Author
-**Uttam Tiwari** *BCA Student & Aspiring Data Analyst* [LinkedIn](https://www.linkedin.com/in/uttam-tiwari-46079a310/)
+**Uttam Tiwari** *BCA Student & Aspiring Data Analyst*
+[LinkedIn](https://www.linkedin.com/in/uttam-tiwari-46079a310/)
+[Email](mailto:uttamtiwari.analyst@gmail.com)
